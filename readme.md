@@ -41,4 +41,4 @@ Based on article AWS Developer Tools Blog about [AWS SDK for Go Version 2 - Gene
 
 ## How to running
 
-Before you running this service, please set up your credentials with following this instruction [Get your AWS access keys](https://aws.github.io/aws-sdk-go-v2/docs/getting-started/#get-your-aws-access-keys). After that, you can run this service! ✨
+Before you running this service, please set up your credentials with following this instruction [Get your AWS access keys](https://aws.github.io/aws-sdk-go-v2/docs/getting-started/#get-your-aws-access-keys) & [Where are configuration settings stored?](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html). After that, you can run this service! ✨
